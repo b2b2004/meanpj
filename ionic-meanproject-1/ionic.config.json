@@ -1,0 +1,7 @@
+{
+  "name": "ionic -meanproject1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
